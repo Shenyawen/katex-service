@@ -1,0 +1,19 @@
+{
+  "name": "katex-service",
+  "version": "1.0.0",
+  "description": "katex解析",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "katex",
+    "katex-service"
+  ],
+  "author": "Sumous",
+  "license": "ISC",
+  "dependencies": {
+    "katex": "^0.9.0",
+    "lodash": "^4.17.10"
+  }
+}
